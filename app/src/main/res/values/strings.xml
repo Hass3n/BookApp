@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Settings</string>
+    <string name="action_new">Settings</string>
+    <string name="logo_desc">App logo</string>
+    <string name="country_name">Nigeria</string>
+    <string name="list">قائمة الكــتب</string>
+    <string name="islamic_book1">كــتب اســـلامية</string>
+    <string name="histo_book">كــتب التايـــخ</string>
+    <string name="adab_book">كتــب الادب</string>
+    <string name="medecin_book">روايـــات</string>
+    <string name="engin_book">كتــب الهندسة</string>
+    <string name="political_book">المزيد ....</string>
+
+
+</resources>
